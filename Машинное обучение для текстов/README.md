@@ -6,7 +6,7 @@
 В нашем распоряжении набор данных интернет-магазина «Викишоп» с разметкой о токсичности правок
 
 ## Используемые инструменты
-pandas, matplotlib, nltk, re, tqdm, sklearn, catboost
+pandas, matplotlib, nltk, re, tqdm, sklearn, catboost, TF-IDF
 
 ## Вывод
 - Для построения моделей мы создали признаки на основе TF-IDF
